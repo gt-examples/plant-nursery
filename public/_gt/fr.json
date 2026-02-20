@@ -1,0 +1,141 @@
+{
+  "140eb058c858c52b": "Phalaenopsis",
+  "15580fdc749f2dd1": "Facile",
+  "1669345bebe0255d": "Hiver",
+  "31d3d17a3f5af06e": "Plante spectaculaire aux grandes feuilles en forme de violon. Préfère des conditions stables et une lumière vive mais tamisée.",
+  "31e4cd294be7530f": "Élevé",
+  "41aab0e213f1c103": "Plein soleil",
+  "443af5a1bafdd997": "Plante à floraison élégante qui reste en fleurs pendant des mois. Parfaite pour les rebords de fenêtre et le décor intérieur.",
+  "44b4be75ba4314d8": "Érable du Japon",
+  "463eb191687d16db": "Plante succulente quasi indestructible aux feuilles dressées en forme d’épée. Excellent purificateur d’air.",
+  "557460858b97b7fd": "Pépinière",
+  "560a21c52922ab5f": [
+    {
+      "c": "Exemple d'application",
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": "Catalogue de pépinière",
+      "i": 2,
+      "t": "h2"
+    },
+    {
+      "c": "Parcourez notre sélection de plantes. Chaque fiche comprend le prix, la difficulté d'entretien, la disponibilité saisonnière et les statistiques de croissance pour vous aider à trouver l'ajout parfait à votre jardin.",
+      "i": 3,
+      "t": "p"
+    }
+  ],
+  "70392d289cabcc8a": "Expert",
+  "778de8c426d5d6af": "Aloe vera",
+  "7b016bb8d63e6038": "Automne",
+  "7d7fe1a78db788fa": "Sansevieria (plante serpent)",
+  "8bed949e0d6cfab3": "Lavande anglaise",
+  "8f3370b7ce7b6f94": "Été",
+  "8f954f9735d9f091": [
+    {
+      "c": [
+        {
+          "c": "Croissance",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_value_4",
+            "v": "v"
+          },
+          "i": 3,
+          "t": "p"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Hauteur maximale",
+          "i": 6,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 8,
+            "k": "_gt_value_8",
+            "v": "v"
+          },
+          "i": 7,
+          "t": "p"
+        }
+      ],
+      "i": 5,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Eau",
+          "i": 10,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 12,
+            "k": "_gt_value_12",
+            "v": "v"
+          },
+          "i": 11,
+          "t": "p"
+        }
+      ],
+      "i": 9,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Lumière",
+          "i": 14,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 16,
+            "k": "_gt_value_16",
+            "v": "v"
+          },
+          "i": 15,
+          "t": "p"
+        }
+      ],
+      "i": 13,
+      "t": "div"
+    }
+  ],
+  "90082db645a0fb1b": "Besoins en eau modérés",
+  "9837a5e30a6e6c89": "Parcourez notre catalogue de plantes sélectionnées, avec les prix, le niveau de difficulté d’entretien, la disponibilité saisonnière et les statistiques de croissance.",
+  "9c5616e5ddf32816": "Plante tropicale très appréciée pour ses grandes feuilles profondément découpées. S’épanouit en intérieur avec une lumière vive mais indirecte.",
+  "adc2f0ab5be87691": "Mi-ombre",
+  "af3d81238e8baedd": "Besoins en eau faibles",
+  "b7614c51a9106906": "Intermédiaire",
+  "bd3467007430607f": {
+    "c": "Voici un exemple d'application construite avec General Translation pour illustrer l'internationalisation.",
+    "i": 1,
+    "t": "p"
+  },
+  "bef89a256fe8cf18": "Plante succulente médicinale aux épaisses feuilles gorgées de gel. Très peu exigeante et utile pour les petites brûlures et les soins de la peau.",
+  "c061230904bbe357": "Figuier lyre",
+  "c44ed2076777508b": "Pépinière de plantes | Traduction générale",
+  "c4f1b7ed36ab194b": "Arbre ornemental apprécié pour ses feuilles délicates et profondément lobées, ainsi que pour ses couleurs spectaculaires en automne.",
+  "c56947bdbc86a3c5": "Printemps",
+  "c8092951750d127f": "Ombre totale",
+  "cd468f71a388146e": "Espèce de bonsaï classique qui demande une taille et une mise en forme minutieuses. Récompense la patience par une beauté intemporelle.",
+  "cecf6e2d000871e1": "Vivace parfumée aux épis de fleurs violettes. Excellente en bordure, dans les jardins de plantes aromatiques et pour attirer les pollinisateurs.",
+  "ddd97625b4790c6b": "Monstera deliciosa",
+  "ee633864240b03da": "Genévrier en bonsaï",
+  "ee6dd565889945ba": "Cerisier en fleurs",
+  "f626fc00b24456b5": "Toute l’année",
+  "fc1d824cdf8894c6": "Arbre ornemental emblématique, célèbre pour sa floraison printanière brève mais spectaculaire de fleurs rose pâle."
+}

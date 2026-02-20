@@ -1,0 +1,141 @@
+{
+  "140eb058c858c52b": "orquídea mariposa",
+  "15580fdc749f2dd1": "Fácil",
+  "1669345bebe0255d": "Invierno",
+  "31d3d17a3f5af06e": "Planta llamativa con hojas grandes en forma de violín. Prefiere condiciones estables y luz brillante y filtrada.",
+  "31e4cd294be7530f": "Alta",
+  "41aab0e213f1c103": "Pleno sol",
+  "443af5a1bafdd997": "Elegante planta de floración que se prolonga durante meses. Perfecta para alféizares y arreglos de interior.",
+  "44b4be75ba4314d8": "Arce japonés",
+  "463eb191687d16db": "Suculenta casi indestructible con hojas erguidas en forma de espada. Excelente purificadora de aire.",
+  "557460858b97b7fd": "Vivero de plantas",
+  "560a21c52922ab5f": [
+    {
+      "c": "Aplicación de ejemplo",
+      "i": 1,
+      "t": "p"
+    },
+    {
+      "c": "Catálogo de vivero de plantas",
+      "i": 2,
+      "t": "h2"
+    },
+    {
+      "c": "Explora nuestra selección curada de plantas. Cada ficha incluye precio, dificultad de cuidado, disponibilidad estacional y estadísticas de crecimiento para ayudarte a encontrar la adición perfecta para tu jardín.",
+      "i": 3,
+      "t": "p"
+    }
+  ],
+  "70392d289cabcc8a": "Experto",
+  "778de8c426d5d6af": "aloe vera",
+  "7b016bb8d63e6038": "Otoño",
+  "7d7fe1a78db788fa": "sansevieria (lengua de suegra)",
+  "8bed949e0d6cfab3": "Lavanda inglesa",
+  "8f3370b7ce7b6f94": "Verano",
+  "8f954f9735d9f091": [
+    {
+      "c": [
+        {
+          "c": "Crecimiento",
+          "i": 2,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 4,
+            "k": "_gt_value_4",
+            "v": "v"
+          },
+          "i": 3,
+          "t": "p"
+        }
+      ],
+      "i": 1,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Altura máxima",
+          "i": 6,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 8,
+            "k": "_gt_value_8",
+            "v": "v"
+          },
+          "i": 7,
+          "t": "p"
+        }
+      ],
+      "i": 5,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Agua",
+          "i": 10,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 12,
+            "k": "_gt_value_12",
+            "v": "v"
+          },
+          "i": 11,
+          "t": "p"
+        }
+      ],
+      "i": 9,
+      "t": "div"
+    },
+    {
+      "c": [
+        {
+          "c": "Luz",
+          "i": 14,
+          "t": "span"
+        },
+        {
+          "c": {
+            "i": 16,
+            "k": "_gt_value_16",
+            "v": "v"
+          },
+          "i": 15,
+          "t": "p"
+        }
+      ],
+      "i": 13,
+      "t": "div"
+    }
+  ],
+  "90082db645a0fb1b": "Necesidades de agua moderadas",
+  "9837a5e30a6e6c89": "Explora nuestro catálogo seleccionado de plantas con precios, nivel de cuidado, disponibilidad por temporada y datos de crecimiento.",
+  "9c5616e5ddf32816": "Planta tropical muy apreciada por sus hojas dramáticamente divididas. Prospera en interiores con luz brillante e indirecta.",
+  "adc2f0ab5be87691": "Sombra parcial",
+  "af3d81238e8baedd": "Bajas necesidades de agua",
+  "b7614c51a9106906": "Intermedio",
+  "bd3467007430607f": {
+    "c": "Esta es una aplicación de ejemplo creada con General Translation para demostrar la internacionalización.",
+    "i": 1,
+    "t": "p"
+  },
+  "bef89a256fe8cf18": "Suculenta medicinal con hojas carnosas rellenas de gel. De bajo mantenimiento y útil para quemaduras leves y el cuidado de la piel.",
+  "c061230904bbe357": "Higuera de hojas de violín",
+  "c44ed2076777508b": "Vivero de plantas | Traducción general",
+  "c4f1b7ed36ab194b": "Árbol ornamental muy apreciado por sus delicadas hojas profundamente lobuladas y su espectacular color otoñal.",
+  "c56947bdbc86a3c5": "Primavera",
+  "c8092951750d127f": "Sombra total",
+  "cd468f71a388146e": "Especie clásica de bonsái que requiere una poda y un modelado cuidadosos. Recompensa la paciencia con una belleza atemporal.",
+  "cecf6e2d000871e1": "Perenne aromática con espigas de flores púrpuras. Ideal para bordes, huertos de hierbas y para atraer polinizadores.",
+  "ddd97625b4790c6b": "Monstera deliciosa",
+  "ee633864240b03da": "bonsái de enebro",
+  "ee6dd565889945ba": "flor de cerezo",
+  "f626fc00b24456b5": "Todo el año",
+  "fc1d824cdf8894c6": "Árbol icónico de floración, célebre por su breve pero espectacular floración primaveral de color rosa pálido."
+}
