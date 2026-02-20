@@ -3,12 +3,8 @@ import { getGT } from "gt-next/server";
 import { LocaleSelector } from "gt-next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getTranslatedPlants, plants as rawPlants } from "@/lib/plants";
+import { getTranslatedPlants } from "@/lib/plants";
 import type { Category } from "@/lib/plants";
-
-export function generateStaticParams() {
-  return rawPlants.map((p) => ({ slug: p.id }));
-}
 
 export default async function PlantDetail({
   params,

@@ -91,6 +91,30 @@ export default async function Home() {
           plantEntries={plantEntries}
         />
       </main>
+
+      <footer className="border-t border-neutral-800 bg-neutral-950">
+        <div className="max-w-5xl mx-auto px-6 py-8">
+          <T>
+            <p className="text-xs text-neutral-500 mb-4">
+              Resources for plant enthusiasts
+            </p>
+          </T>
+          <div className="flex flex-wrap gap-x-6 gap-y-2 text-xs text-neutral-500">
+            <a href="https://www.rhs.org.uk" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-300 transition-colors">
+              Royal Horticultural Society
+            </a>
+            <a href="https://www.missouribotanicalgarden.org" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-300 transition-colors">
+              Missouri Botanical Garden
+            </a>
+            <a href="https://www.bonsaiempire.com" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-300 transition-colors">
+              Bonsai Empire
+            </a>
+            <a href="https://generaltranslation.com" target="_blank" rel="noopener noreferrer" className="hover:text-neutral-300 transition-colors">
+              General Translation
+            </a>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 }
