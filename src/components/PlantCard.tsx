@@ -1,5 +1,6 @@
 import { T, Var, Currency } from "gt-next";
 import { getGT } from "gt-next/server";
+import Link from "next/link";
 import type { Plant } from "@/lib/plants";
 
 const difficultyColors = {
@@ -46,10 +47,13 @@ export default async function PlantCard({ plant }: { plant: Plant }) {
   }[plant.light];
 
   return (
-    <div className="rounded-lg border border-neutral-800 bg-neutral-900/50 p-5 hover:border-neutral-700 transition-colors">
+    <Link
+      href={`/plant/${plant.id}`}
+      className="block rounded-lg border border-neutral-800 bg-neutral-900/50 p-5 hover:border-neutral-600 transition-colors group"
+    >
       <div className="flex items-start justify-between mb-3">
         <div>
-          <h3 className="text-base font-semibold text-neutral-100">
+          <h3 className="text-base font-semibold text-neutral-100 group-hover:text-emerald-400 transition-colors">
             {plant.name}
           </h3>
           <p className="text-xs text-neutral-500 italic">{plant.species}</p>
@@ -102,6 +106,12 @@ export default async function PlantCard({ plant }: { plant: Plant }) {
           </div>
         </T>
       </div>
-    </div>
+
+      <div className="mt-3 pt-3 border-t border-neutral-800">
+        <span className="text-xs text-emerald-400 font-medium group-hover:text-emerald-300 transition-colors">
+          {gt("View care guide")} →
+        </span>
+      </div>
+    </Link>
   );
 }
